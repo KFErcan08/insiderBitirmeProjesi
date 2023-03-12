@@ -1,0 +1,2 @@
+# insiderBitirmeProjesi
+ DSKA insiderBitirmeProjesi
